@@ -47,4 +47,7 @@ https://flutterchina.club/android-release/   (补充打包aab命令：flutter bu
 # 联合维护学习
 <a href="https://github.com/lingyun14">云</a>
 
-<a href="https://github.com/lzq879069670">强</a>
+<a href="https://github.com/lzq879069670">志强</a>
+
+<a href="https://github.com/zxqzxq">兴强</a>
+
