@@ -51,3 +51,5 @@ https://flutterchina.club/android-release/   (补充打包aab命令：flutter bu
 
 <a href="https://github.com/zxqzxq">兴强</a>
 
+[相关wiki参考](https://github.com/zxqzxq/PersonalFlutter/wiki/)
+
